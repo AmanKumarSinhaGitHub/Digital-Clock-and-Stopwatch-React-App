@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 2px solid white;
+  height: 35vh;
+  width: 40vw;
+  margin: 1em;
+  padding: 0.5em;
+}
+
+.buttonsBox{
+  display: flex;
+  justify-content: space-evenly;
+  width: 15vw;
+  margin: 0.5em;
+}
+
