@@ -4,6 +4,9 @@
 
 Welcome to the Digital Clock and Stopwatch React (Vite) Application! This application provides a simple and user-friendly interface for both digital clock and stopwatch functionalities. Whether you need to keep track of time or measure elapsed time, this app has got you covered.
 
+## Live 
+### [Click here to Open](https://amankumarsinhagithub.github.io/Digital-Clock-and-Stopwatch-React-App/)
+
 ## Features
 
 - **Digital Clock:** Display the current time in a clear and easily readable format.
